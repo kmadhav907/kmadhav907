@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 🔭 My interest of work  includes Web Development , Flutter , AI
+
+### 📫 How to reach me: 
+- Contact Info - +91-8197795213
+- Email - kmadhav907@gmail.com
 <!--
 **kmadhav907/kmadhav907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
