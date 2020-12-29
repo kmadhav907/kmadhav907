@@ -18,6 +18,11 @@
 
 </details>
 
+<a href="https://github.com/kmadhav907">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmadhav907&theme=dark&hide_langs_below=1" />
+</a>
+
+
 ### 📫 How to reach me: 
 - Contact Info - +91-8197795213
 - Email - kmadhav907@gmail.com
