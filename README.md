@@ -2,6 +2,22 @@
 
 ### 🔭 My interest of work  includes Web Development , Flutter , AI
 
+<details>
+  <summary>GitHub Stats</summary>
+
+![GitHub Stats Card]
+
+</details>
+
+<details>
+  <summary>GitHub Trophies</summary>
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+![GitHub Trophies]
+
+</details>
+
 ### 📫 How to reach me: 
 - Contact Info - +91-8197795213
 - Email - kmadhav907@gmail.com
