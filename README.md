@@ -21,6 +21,9 @@
 ### 📫 How to reach me: 
 - Contact Info - +91-8197795213
 - Email - kmadhav907@gmail.com
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=kmadhav907
+[github trophies]: https://github-profile-trophy.vercel.app/?username=kmadhav907&column=4&margin-w=18&margin-h=15
 <!--
 **kmadhav907/kmadhav907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
