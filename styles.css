@@ -5,6 +5,8 @@ body {
   margin: auto;
   justify-content: center;
   font-family: sans-serif;
+  height: 100%;
+  width: 100%;
 }
 #bg-video {
   position: fixed;
@@ -16,19 +18,21 @@ body {
 .content {
   position: fixed;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
 }
 .center {
-  margin-left: auto;
-  margin-right: auto;
   text-align: center;
   background-color: yellow;
   color: royalblue;
-  height: 720px auto;
-  width: 620px;
+  margin: auto;
+  height: auto;
+
+  max-width: fit-content;
+  max-height: fit-content;
+
   border-radius: 50px;
   overflow: auto;
   animation: pulse 5s infinite;
