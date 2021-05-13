@@ -15,11 +15,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
+<div style='display:flex'>
 <a href="https://github.com/kmadhav907">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmadhav907&theme=dark&hide_langs_below=1" />
 </a>
-
+<a href="https://github.com/kmadhav907">
+  <img align="center" src="https://github-readme-stats-zeta-teal.vercel.app/api?username=kmadhav907&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&hide_border=false&theme=radical" alt="Madhav GitHub Stats" />
+</a>
+</div>
 
 
 ### 📫 How to reach me: 
