@@ -5,6 +5,8 @@
 
 ### Hi there 👋
 
+<img src="coding.gif"  alt="A coding guy"/>
+
 ### 🔭 My interest of work  includes Web Development , Flutter , AI
 
 
