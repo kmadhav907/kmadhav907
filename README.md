@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **kmadhav907@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kmadhav907/kmadhav907/blob/main/Resume'.pdf](https://github.com/kmadhav907/kmadhav907/blob/main/Resume'.pdf)
-
+- 📄 Know about my experiences **<a href="https://github.com/kmadhav907/kmadhav907/blob/main/Resume'.pdf">Check out</a>**
 - ⚡ Fun fact **I love to EAT Veg Biryani**
 
 <h3 align="left">Connect with me:</h3>
